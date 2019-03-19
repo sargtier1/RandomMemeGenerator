@@ -1,3 +1,10 @@
+
+this is a random meme generator. When "create" is clicked it will choose a random meme where the user can then overlay their desired text.
+
+future development includes exporting the created meme, and allowing the user to select their desired meme. 
+
+
+------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
